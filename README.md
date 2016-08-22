@@ -13,3 +13,5 @@ Execute 'agoc' in the tag window of an existing .go file. A new window called "+
 You need to have gocode installed:
 
 	go get github.com/nsf/gocode
+
+Also requires latest [plan9port](https://github.com/9fans/plan9port) acme with [focus log event](https://github.com/9fans/plan9port/commit/fdf6ef333705c844bcf3ccf2f93b2773f1a6aa41) support.
